@@ -1,0 +1,14 @@
+C:\Users\dejes\Desktop\pendu\pendu-csharp\bin\Debug\net10.0\pendu-csharp.exe
+C:\Users\dejes\Desktop\pendu\pendu-csharp\bin\Debug\net10.0\pendu-csharp.deps.json
+C:\Users\dejes\Desktop\pendu\pendu-csharp\bin\Debug\net10.0\pendu-csharp.runtimeconfig.json
+C:\Users\dejes\Desktop\pendu\pendu-csharp\bin\Debug\net10.0\pendu-csharp.dll
+C:\Users\dejes\Desktop\pendu\pendu-csharp\bin\Debug\net10.0\pendu-csharp.pdb
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\pendu-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\pendu-csharp.AssemblyInfoInputs.cache
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\pendu-csharp.AssemblyInfo.cs
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\pendu-csharp.csproj.CoreCompileInputs.cache
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\pendu-csharp.dll
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\refint\pendu-csharp.dll
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\pendu-csharp.pdb
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\pendu-csharp.genruntimeconfig.cache
+C:\Users\dejes\Desktop\pendu\pendu-csharp\obj\Debug\net10.0\ref\pendu-csharp.dll
